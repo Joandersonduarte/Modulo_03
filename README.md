@@ -2,4 +2,4 @@
  Aulas
 
  
-<a href="file:///C:/Users/Joanderson%20Duarte/Desktop/Exercicios/Gitprojeto/Modulo_03/index.html" target="black"> EXERCURTAR</a>
+<a href="file:///C:/Users/Joanderson%20Duarte/Desktop/Exercicios/Gitprojeto/Modulo_03/index.html"> EXERCURTAR</a>
